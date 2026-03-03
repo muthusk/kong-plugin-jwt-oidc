@@ -1,3 +1,4 @@
+rockspec_format = "3.0"
 local plugin_name = "jwt-oidc"
 local package_name = "kong-plugin-" .. plugin_name
 local package_version = "1.0.0"
