@@ -16,7 +16,7 @@ source = {
 
 description = {
   summary = "A Kong plugin that will validate tokens issued by an OIDC issuer",
-   homepage = "https://github.com/callistaenterprise/kong-plugin-jwt-oidc",
+   homepage = "https://github.com/muthusk/kong-plugin-jwt-oidc",
   license = "Apache 2.0",
 }
 
